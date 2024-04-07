@@ -1,4 +1,4 @@
-## install prisma
+## install prisma.
 
                      npm install prisma
 
