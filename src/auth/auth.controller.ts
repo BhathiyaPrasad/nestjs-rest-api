@@ -15,4 +15,10 @@ export  class AuthController{
         return this.AuthService.signin()
     }
 
+    @Post('log')
+    log(){
+        return this.AuthService.log()
+    }
+
+
 }
