@@ -10,7 +10,10 @@ import { Injectable } from "@nestjs/common";
     signin() {
     return 'Sign In ';
   }
-
+    
+  log(){
+    return 'Successfully Logged In';
+  }
 
 
  }
