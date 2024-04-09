@@ -1,8 +1,8 @@
-## install prisma.
+## Install prisma.
 
                      npm install prisma
 
-## install prisma client library
+## Install prisma client library
 
                      npm install @prisma/client
 
